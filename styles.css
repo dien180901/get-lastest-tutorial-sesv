@@ -1,0 +1,116 @@
+.favorite-rates-card {
+    font-family: Montserrat;
+    width: 25.714rem;
+    height: 18.785rem;
+    background-color: #ffffff;
+    border: 1px solid #e3e8ef;
+    border-radius: 6px;
+  }
+  .favorite-rates-card > div {
+    max-width: 100%;
+    padding-left: 1.428rem;
+  }
+  .favorite-rates-card p,
+  h6 {
+    margin: 0;
+  }
+  
+  .header {
+    margin-top: 1.428rem;
+    height: 1.285rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .header p {
+    margin: 0;
+    width: 3.214rem;
+  
+    font-weight: 600;
+  
+    color: #3c5264;
+  }
+  .header img {
+    height: 1.285rem;
+    padding-right: 1.428rem;
+  }
+  .card-name-update-time {
+    margin-top: 1.428rem;
+  }
+  .card-name-update-time h4 {
+    font-weight: bold;
+    font-size: 1.285rem;
+    line-height: 1.714rem;
+    color: #3c5264;
+    margin: 0;
+  }
+  .card-name-update-time p {
+    font-weight: normal;
+    color: #adb8c1;
+    margin-top: 0.285rem;
+  }
+  .loan  > div img {
+    height: 0.857rem;
+  }
+  .loan  > div #first-p {
+    font-weight: 500;
+    color: #adb8c1;
+    display: inline-block;
+  }
+.loan {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1.714rem;
+    grid-column-gap: 1.285rem;
+  }
+  .loan  > div #second-p {
+    font-weight: normal;
+    color: #3c5264;
+    margin-top: 0.428rem;
+  }
+  
+  .loan  > div {
+    width: 6.714rem;
+  }
+  
+  .favorite-rates-card >div:nth-child(n+2):nth-child(-n+4) p {
+    font-size: 0.857rem;
+    line-height: 1.285rem;
+  }
+
+  .fourth-row-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1.428rem;
+    grid-column-gap: 1.285rem;
+  }
+  .fourth-row-box {
+    background: #f8f8f8;
+    border-radius: 6px;
+    width: 6.714rem;
+    height: 3.785rem;
+  }
+  
+  .fourth-row-box p {
+    font-weight: normal;
+    text-align: center;
+    color: #adb8c1;
+    margin-top: 0.357rem;
+  }
+  .fourth-row-box h6 {
+    font-weight: 500;
+    text-align: center;
+  }
+  .fourth-row-box h6,
+  .fourth-row-box p {
+    font-size: 1rem;
+    line-height: 1.428rem;
+  }
+  .color-0d6efd {
+    color: #0d6efd;
+  }
+  .color-ea5455 {
+    color: #ea5455;
+  }
+  
